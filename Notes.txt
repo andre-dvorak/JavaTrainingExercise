@@ -1,1 +1,2 @@
 This is the first note
+Added a second note
